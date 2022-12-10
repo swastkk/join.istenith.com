@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'interview-iste'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_615A3684F30A4257ADE7ADCA3AB646AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9430EF956B554AC3BBA9A8D24E3E0DCE }}
